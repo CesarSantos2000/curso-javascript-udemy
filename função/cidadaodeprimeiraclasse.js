@@ -5,7 +5,7 @@
 function fun1({ })
 
 //armazenar em uma vaiavel
-//const fun2 = function () { }
+const fun2 = function () { }
 
 //armazenar em um array
 const array = [function (a, b) { return (a + b); fun1, fun2 }]
